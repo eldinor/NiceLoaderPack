@@ -1,0 +1,1 @@
+export { NiceLoader } from './niceloader';
